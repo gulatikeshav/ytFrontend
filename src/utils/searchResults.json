@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "HdF-13efRdGQ-KswPmLmuTsCuDs",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LqsenkAbstk49xNaLpg31SFt9Zg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MDb3kzRPSWc"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-16T15:30:12Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4217 | 16 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MDb3kzRPSWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MDb3kzRPSWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MDb3kzRPSWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-16T15:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o9PvLSojiFcDcThlMZB-PvbNjUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R7JZpfPuvHw"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-16T15:30:10Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "NEW! Ep 4217 -Andhere me Kyu Karni Padi Gokuldhamvasiyo ko Aarti?! | Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7JZpfPuvHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7JZpfPuvHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7JZpfPuvHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-16T15:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eMpC0PF8kFm4QZsHFXVX1WIXZlo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "arf9GupGAdc"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-16T15:45:00Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "Taarak Mehta Ka Ooltah Chashmah | तारक मेहता | Ep 4218 | Coming Up Next",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arf9GupGAdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arf9GupGAdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arf9GupGAdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-16T15:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vJwbkDGRGgTshYY710BcaR5gSgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RojBbNhZ-4c"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-15T15:30:13Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "NEW! Ep 4216 - Gokuldhamvasi Khud Karenge Navratri ka Decoration?! | Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RojBbNhZ-4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RojBbNhZ-4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RojBbNhZ-4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-15T15:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8nxatlQpr3Gc4h7gLwA9K8VVJJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H1xGrQMaTLA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-08T15:30:06Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4210 | 8 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H1xGrQMaTLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H1xGrQMaTLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1xGrQMaTLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-08T15:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FWz79Qsvt1VeVmYU4PbXbdBo5Dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rr4kos90iVM"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-11T15:30:17Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4213 | 11 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rr4kos90iVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rr4kos90iVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rr4kos90iVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-11T15:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cWiIwjH52yahShNn5IiBJwq_NfU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wbk3YPEr65Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-12T15:30:10Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4214 | 12 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wbk3YPEr65Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wbk3YPEr65Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wbk3YPEr65Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-12T15:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0laewyyyNZm_7uuz5C3Ngn0sP8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eGtv2IYi1TM"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-09T15:30:14Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4211 | 9 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eGtv2IYi1TM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eGtv2IYi1TM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eGtv2IYi1TM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-09T15:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pZ6J_ySNgTYwSOWX-larwrwlX-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1xooLnKZ-6Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-15T04:23:00Z",
+        "channelId": "UCVOyZjgUo71i4o5kHAoFCjQ",
+        "title": "Ep-4215-16-SNEAK PEEK! Taarak Mehta Ka Ooltah Chashmah,तारक मेहता का उल्टा चश्मा#tmkoc#taarakmehta",
+        "description": "gokulltalk Decorator Danav Ki Vajah Se Ayi Musibat I Taarak Mehta ka ooltah chashmah new episode promo 4215TMKOC new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1xooLnKZ-6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1xooLnKZ-6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1xooLnKZ-6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Praj_GM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-15T04:23:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K7RSdE3hpj_3HY-YtiCH-TSDCC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6jcvpVhTszE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-16T15:21:51Z",
+        "channelId": "UC3MlVS_8R0jMWle3pe6IQVw",
+        "title": "NEW! Tarak Mehta Ka Ulta Chasma Today New Episode 4217  | नवरात्री में आया नया ट्विस्ट",
+        "description": "Tarak Mehta Ka Ulta Chasma Today New Episode | नवरात्री में आया नया ट्विस्ट.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jcvpVhTszE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jcvpVhTszE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jcvpVhTszE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hanuman Paldiya",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-16T15:21:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PzQmnh-nTuT6i_gfqBNNEwzHKnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T_ndJ5W_Dxw"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-07T15:30:16Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4209 | 7 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T_ndJ5W_Dxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T_ndJ5W_Dxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T_ndJ5W_Dxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-07T15:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iVywC9Bfo8qvQ6aa69B5rBTySkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6jNuXJBEkMA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-10T15:30:04Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4212 | 10 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jNuXJBEkMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jNuXJBEkMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jNuXJBEkMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-10T15:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nc06I6NZYG_QDoj1RQrwAgMUBug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gsnN2jgvQAo"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-04T15:30:14Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4207 | 4 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsnN2jgvQAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsnN2jgvQAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsnN2jgvQAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-04T15:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZmDpGeL7YOtnaLfGQwz68H4zMFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZHiOSJekiE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-14T15:30:19Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4215 | 14 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZHiOSJekiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZHiOSJekiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZHiOSJekiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-14T15:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G7lxtsPSY-o4qknMRPGeZI1dseQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ykEvpY6s_f0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-03T15:30:29Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4206 | 3 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ykEvpY6s_f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ykEvpY6s_f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ykEvpY6s_f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-03T15:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-hLVYn2Zbunca9F4KIttCSo557s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f16KDi2QIg0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-05T15:30:11Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4208 | 5 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f16KDi2QIg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f16KDi2QIg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f16KDi2QIg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-05T15:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A0qd6hn96EDGhYlSbeTArSFRa9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vx11HNW1X5w"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-09T15:30:10Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "NEW! Ep 4211 - Mahila Mandal se Badtameezi?! | Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vx11HNW1X5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vx11HNW1X5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vx11HNW1X5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-09T15:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3HthH_OhHz9SKAVcAW6U0TIr95s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T6rt05NYPqY"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-08T14:30:21Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "Sodhi की कौन सी बात सुनकर Jetha को लगा झटका? | Taarak Mehta Ka Ooltah Chashmah | Jetha Jasoos",
+        "description": "Click here to subscribe to the Sony LIV Channel: https://www.youtube.com/user/sonyliv Sodhi calls Taarak to tell him an exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T6rt05NYPqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T6rt05NYPqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T6rt05NYPqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-08T14:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "krykj04yjxCXK2j2Zq_GYK-wlII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mfnlme_DvzY"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-28T15:30:15Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4202 | 28 Sep 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfnlme_DvzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfnlme_DvzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfnlme_DvzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-28T15:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "laCo7k5vhamV2WQI380VusZR1UE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0IyB8HQjLDE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-07T15:45:00Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "Taarak Mehta Ka Ooltah Chashmah | तारक मेहता | Ep 4210 | Coming Up Next",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0IyB8HQjLDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0IyB8HQjLDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0IyB8HQjLDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-07T15:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iGclm4_JcDs5NxXmhOmuyZaHqaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "41TZaPrJSwY"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-20T15:00:05Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "FULL EPISODE! 4148 - Hathi Bhai ne Di Gokuldhamvasio ko Party!| Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/41TZaPrJSwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/41TZaPrJSwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/41TZaPrJSwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-20T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DLVCmknfSlbhMaihwVjWKGHI4jw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jS6E4Ls7MV4"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-11T15:45:02Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "Taarak Mehta Ka Ooltah Chashmah | तारक मेहता | Ep 4214 | Coming Up Next",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jS6E4Ls7MV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jS6E4Ls7MV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jS6E4Ls7MV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-11T15:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dsomSgrgO3XNfFXtFvn5s5pL4to",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ESJVZOCB-i8"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-10T15:30:04Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "NEW! Ep 4212 - Mahila Mandal Kaise Karegi Danav Se Muqabla?! | Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ESJVZOCB-i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ESJVZOCB-i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ESJVZOCB-i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-10T15:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0vZdMrcpR-7YPrY4YqftyAfUGxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "donq7BJDxyM"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-14T15:30:13Z",
+        "channelId": "UCnSFZ-olBoLGLRUS_3RI2Aw",
+        "title": "NEW! Ep 4215 - Kya Chalu Pandey Lenge Mahila Mandal ki Complain?! | Taarak Mehta Ka Ooltah Chashmah",
+        "description": "Click here to Subscribe to Taarak Mehta Ka Ooltah Chashmah Official Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/donq7BJDxyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/donq7BJDxyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/donq7BJDxyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taarak Mehta Ka Ooltah Chashmah",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-14T15:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sey-8H2hv6IzIpAbiaYSm4pKKog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hr_dJQ_4BSI"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-02T15:30:17Z",
+        "channelId": "UC6-F5tO8uklgE9Zy8IvbdFw",
+        "title": "NEW! Taarak Mehta Ka Ooltah Chashmah | Ep 4205 | 2 Oct 2024 | Teaser",
+        "description": "Click here to subscribe to SAB: https://www.youtube.com/channel/UC6-F5tO8uklgE9Zy8IvbdFw?sub_confirmation=1 Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hr_dJQ_4BSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hr_dJQ_4BSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hr_dJQ_4BSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sony SAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-02T15:30:17Z"
+      }
+    }
+  ]
+}
